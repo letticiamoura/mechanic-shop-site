@@ -1,14 +1,17 @@
 
 import './App.css'
+import Navbar from './components/layout/Navbar';
 
 function App() {
 
   return (
+
     <div>
 
-      <h1>Mechanic Shop</h1>
-      
+      <Navbar />
+
     </div>
+    
   )
 }
 
