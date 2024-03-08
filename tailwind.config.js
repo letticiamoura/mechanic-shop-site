@@ -15,7 +15,9 @@ export default {
         'anta': ["Anta", "sans-serif"],
       }
     },
+    backgroundImage: {
+      'home': "url('./src/assets/of.jpg')",
+    },
   },
   plugins: [],
 }
-

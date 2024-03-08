@@ -14,7 +14,7 @@ export default function Navbar () {
 
             <nav className="flex justify-evenly items-center bg-slate-900 h-24">
 
-                <h1 className="text-4xl text-slate-200 font-anta font-bold">Red Car'</h1>
+                <h1 className="text-4xl text-slate-100 font-anta font-bold">Red Car'</h1>
 
                 <ul className="hidden md:flex ">
                     {navbar.map( (item => (
