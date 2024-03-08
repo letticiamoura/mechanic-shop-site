@@ -16,7 +16,7 @@ export default {
       }
     },
     backgroundImage: {
-      'home': "url('./src/assets/of.jpg')",
+      'home': "url('src/assets/of.jpg')",
     },
   },
   plugins: [],
